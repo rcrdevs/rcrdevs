@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rcrdevs
 - 👀 I’m interested in software engineering focused on process optmization
-- 🌱 I’m currently learning to dev
 - 💞️ I’m looking to collaborate on any interesting project
 
 <!---
